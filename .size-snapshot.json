@@ -1,0 +1,22 @@
+{
+  "framework-dev.js": {
+    "bundled": 13178,
+    "minified": 3208,
+    "gzipped": 1276
+  },
+  "framework.js": {
+    "bundled": 11616,
+    "minified": 3018,
+    "gzipped": 1207
+  },
+  "framework-dev.min.js": {
+    "bundled": 3208,
+    "minified": 3208,
+    "gzipped": 1275
+  },
+  "framework.min.js": {
+    "bundled": 3018,
+    "minified": 3018,
+    "gzipped": 1206
+  }
+}
